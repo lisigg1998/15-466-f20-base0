@@ -1,6 +1,6 @@
 # Shooting Pong
 
-Author: Tianjian Huang
+Author: Tianjian Huang <thuang2@andrew.cmu.edu>
 
 Design: 
 
