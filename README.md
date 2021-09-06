@@ -26,14 +26,14 @@ Rules:
 
 ------------------------------------------------------------------------------------
 
-Operation:
-LMB: shoot
-Move mouse: adjust cannon direction
-Esc: toggle pause
-While pausing, press q: quit the game
-While current game is over (either win or lose all health):
-	Press y: restart
-	Press n: quit the game
+Operation:  
+LMB: shoot  
+Move mouse: adjust cannon direction  
+Esc: toggle pause  
+While pausing, press q: quit the game  
+While current game is over (either win or lose all health):  
+	Press y: restart  
+	Press n: quit the game  
 
 
 
